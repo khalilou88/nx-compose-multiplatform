@@ -1,0 +1,12 @@
+{
+  "name": "@init/source",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {},
+  "private": true,
+  "devDependencies": {
+    "@jnxplus/nx-gradle": "^0.4.1",
+    "@nx/workspace": "16.4.0",
+    "nx": "16.4.0"
+  }
+}
